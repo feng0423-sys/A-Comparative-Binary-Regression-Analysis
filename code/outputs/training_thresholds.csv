@@ -1,0 +1,4 @@
+method,cv_auc,chosen_threshold,cv_sensitivity_at_threshold,cv_specificity_at_threshold,cv_youden_j,best_params
+Logistic regression,0.6365658362989325,0.5182622204716406,0.4473684210526316,0.7758007117437722,0.22316913279640382,{'model__C': 0.05}
+Radial SVM,0.6421380408316164,0.07680344470915447,0.47368421052631576,0.8131672597864769,0.2868514703127926,"{'model__C': 0.5, 'model__gamma': 0.01}"
+Random forest,0.6647078104513954,0.02666666666666667,0.7894736842105263,0.4928825622775801,0.2823562464881064,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1}"
