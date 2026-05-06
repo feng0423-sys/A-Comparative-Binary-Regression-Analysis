@@ -1,0 +1,5 @@
+mean_test_score,std_test_score,rank_test_score,param_model__max_depth,param_model__max_features,param_model__min_samples_leaf
+0.6657994088375816,0.03407876809566878,1,,sqrt,1
+0.656949416179704,0.033734266546983506,2,,sqrt,5
+0.6084701958450395,0.030906719343916454,3,4,sqrt,1
+0.6082869466786865,0.03688145197717819,4,4,sqrt,5
